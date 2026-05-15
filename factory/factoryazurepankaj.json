@@ -1,0 +1,15 @@
+{
+	"name": "factoryazurepankaj",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Enabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "55c13738-7cf7-40c6-9c04-738c72d38828",
+		"tenantId": "585a2bbc-d9a0-4dff-a0dd-a3ec4f417d08"
+	}
+}
